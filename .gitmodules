@@ -1,0 +1,6 @@
+[submodule "raspimouse2"]
+	path = raspimouse2
+	url = https://github.com/rt-net/raspimouse2.git
+[submodule "raspimouse_ros2_examples"]
+	path = raspimouse_ros2_examples
+	url = git@github.com:kenitp/raspimouse_ros2_examples.git
